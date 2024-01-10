@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RestController
 
 @RestController
 class testcontroller (
-        val text2 : TestService,
 ){
 
 }
